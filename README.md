@@ -8,3 +8,5 @@ The API I use here is current weather data
 With this API, the user can get current weather condition of a specific airport.
 ## Example 
 Run weatherAPI.py and enter the airport name you want to check.
+<div align=center><img src="https://github.com/BUEC500C1/api-design-ZhenfeiYu/blob/master/test.png"/></div>
+Then you will get the current weather information of Logan airport.
